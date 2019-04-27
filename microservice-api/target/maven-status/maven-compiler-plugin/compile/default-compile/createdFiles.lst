@@ -1,0 +1,4 @@
+com\zhumqs\springcloud\entities\Dept.class
+com\zhumqs\springcloud\service\DeptClientServiceFallbackFactory.class
+com\zhumqs\springcloud\service\DeptClientService.class
+com\zhumqs\springcloud\service\DeptClientServiceFallbackFactory$1.class
